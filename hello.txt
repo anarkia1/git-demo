@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 hello,git!   2222222222
-hello,git! 12 
 hello,git!21323
 hello,git!2313
+hello,git!1234567890
 hello,git!
 hello,git!
 hello,git!
